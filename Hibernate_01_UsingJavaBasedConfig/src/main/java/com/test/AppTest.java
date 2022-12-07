@@ -11,7 +11,7 @@ public class AppTest {
        
     	// transient state
     	Student student = new Student("aditya", "a", "ad@gmail.com");
-        Student student1 = new Student("tejas", "t", "tejas@gmail.com");
+        Student student1 = new Student("Amol", "t", "Amol@gmail.com");
         Transaction transaction = null;
 
         try (Session session = HibernateUtil.getSessionFactory().openSession()) {
