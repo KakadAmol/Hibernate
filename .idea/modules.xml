@@ -9,8 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Hibernate_04_OneToOneMapping/Hibernate_04_OneToOneMapping.iml" filepath="$PROJECT_DIR$/Hibernate_04_OneToOneMapping/Hibernate_04_OneToOneMapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate_05_OneToManyMapping/Hibernate_05_OneToManyMapping.iml" filepath="$PROJECT_DIR$/Hibernate_05_OneToManyMapping/Hibernate_05_OneToManyMapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate_06_ManyToManyMapping/Hibernate_06_ManyToManyMapping.iml" filepath="$PROJECT_DIR$/Hibernate_06_ManyToManyMapping/Hibernate_06_ManyToManyMapping.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hibernate_08_ManyToOneMapping/Hibernate_06_ManyToManyMapping (1).iml" filepath="$PROJECT_DIR$/Hibernate_08_ManyToOneMapping/Hibernate_06_ManyToManyMapping (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate_07_CriteriaAPI/Hibernate_07_CriteriaAPI.iml" filepath="$PROJECT_DIR$/Hibernate_07_CriteriaAPI/Hibernate_07_CriteriaAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate_08_ManyToOneMapping/Hibernate_08_SimplyfiedConnection.iml" filepath="$PROJECT_DIR$/Hibernate_08_ManyToOneMapping/Hibernate_08_SimplyfiedConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate_09_SimplyfiedConnection/Hibernate_09_SimplyfiedConnection.iml" filepath="$PROJECT_DIR$/Hibernate_09_SimplyfiedConnection/Hibernate_09_SimplyfiedConnection.iml" />
     </modules>
   </component>

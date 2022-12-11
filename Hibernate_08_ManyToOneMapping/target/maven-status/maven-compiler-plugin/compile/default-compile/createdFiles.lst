@@ -1,0 +1,4 @@
+com\utils\HibernateUtil.class
+com\entity\Customer.class
+com\test\AppTest.class
+com\entity\Vendor.class
